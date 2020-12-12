@@ -1,0 +1,9 @@
+name = "my-website"
+type = "webpack"
+account_id = "1234567890"
+workers_dev = true
+webpack_config = "webpack.config.js"
+
+[env.dev]
+zone_id = "xxx"
+account_id = "xxx"
